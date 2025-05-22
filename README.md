@@ -25,3 +25,12 @@ https://create-react-app-indol-ten-33.vercel.app
 ( POUR MOBILE: GLISSER DE GAUCHE A DROITE POUR LE MENU)
 
 ![Image 17-05-2025 à 17 30](https://github.com/user-attachments/assets/bc6cf9be-401e-44d5-b7bf-e72eff0066ee)
+
+
+
+![Image 22-05-2025 à 05 34](https://github.com/user-attachments/assets/737b715f-d0b2-4818-86aa-5a89d7acbb88)
+
+
+
+
+![Image 22-05-2025 à 06 04 (1)](https://github.com/user-attachments/assets/c6ef463a-e80e-404d-a57f-29c2871dc459)
