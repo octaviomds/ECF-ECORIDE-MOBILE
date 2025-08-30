@@ -27,7 +27,7 @@ DEMO APPLICATION:
 
 https://account-mu-three.vercel.app
 
-( POUR MOBILE: GLISSER DE GAUCHE A DROITE POUR LE MENU)
+
 
 
 ![Image 20-08-2025 à 07 48 2](https://github.com/user-attachments/assets/b6d1385d-3f0d-46e6-9bc4-aa8863df9807)
