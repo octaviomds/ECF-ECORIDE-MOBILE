@@ -11,9 +11,7 @@ https://ecoride-lollias-projects.vercel.app
 angular:
 
 https://ecorideangular.vercel.app
-
-
-https://eco-ride-angular-standalone-3.vercel.app/in-app/chauffeur     
+ 
 
 react:
 
