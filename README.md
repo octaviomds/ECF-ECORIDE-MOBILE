@@ -31,6 +31,7 @@ Application ECORIDE Docker :
 https://ecoride-app-mu.vercel.app
 
 
+exemmple de differentes applications:
 
 ![Image 20-08-2025 à 07 48 2](https://github.com/user-attachments/assets/b6d1385d-3f0d-46e6-9bc4-aa8863df9807)
 
@@ -43,11 +44,22 @@ https://ecoride-app-mu.vercel.app
 
 ![Image 22-05-2025 à 06 04 (1)](https://github.com/user-attachments/assets/c6ef463a-e80e-404d-a57f-29c2871dc459)
 
+differentes pages de l'application:
 
-![Image 25-05-2025 à 00 47](https://github.com/user-attachments/assets/de9a2d65-bab8-4277-bb05-86ae3a690b54)
 
 
-<img width="615" alt="Capture d’écran 2025-06-07 à 05 18 32" src="https://github.com/user-attachments/assets/16801c97-689b-45c0-a339-33e450e57b23" />
+<img width="1316" height="300" alt="Capture d’écran 2025-10-28 à 21 46 29" src="https://github.com/user-attachments/assets/09510474-4c0d-4450-a833-1e98610dc040" />
+
+
+
+<img width="1195" height="240" alt="Capture d’écran 2025-10-28 à 21 48 46" src="https://github.com/user-attachments/assets/acad8c0c-d360-4caf-87ed-5fb44469f346" />
+
+
+application avec expo:
+
+<img width="615" alt="Capture d’écran 2025-06-07 à 05 18 32" src="https://github.com/user-attachments/assets/16801c97-689b-45c0-a339-33e450e57b23" />
+
+exemple de base données:
 
 
 
