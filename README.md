@@ -33,7 +33,7 @@ https://ecoride-app-mu.vercel.app
 
 exemmple de differentes applications:
 
-![Image 20-08-2025 à 07 48 2](https://github.com/user-attachments/assets/b6d1385d-3f0d-46e6-9bc4-aa8863df9807)
+
 
 
 
@@ -53,6 +53,12 @@ differentes pages de l'application:
 
 
 <img width="1195" height="240" alt="Capture d’écran 2025-10-28 à 21 48 46" src="https://github.com/user-attachments/assets/acad8c0c-d360-4caf-87ed-5fb44469f346" />
+
+
+
+![Image 30-10-2025 à 00 45](https://github.com/user-attachments/assets/cdaab41a-a4c7-496a-a57e-c0ee0c0d6a65)
+![Image 30-10-2025 à 00 33 (1)](https://github.com/user-attachments/assets/ed2ab4bb-53b6-47c6-b38c-1a07ba224c7f)
+
 
 
 application avec expo:
