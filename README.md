@@ -44,7 +44,7 @@ exemmple de differentes applications:
 
 ![Image 22-05-2025 à 06 04 (1)](https://github.com/user-attachments/assets/c6ef463a-e80e-404d-a57f-29c2871dc459)
 
-differentes pages de l'application:
+Exemple de differentes pages de l'application:
 
 
 
