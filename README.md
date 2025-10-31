@@ -57,13 +57,14 @@ Exemple de differentes pages de l'application:
 
 
 ![Image 30-10-2025 à 00 45](https://github.com/user-attachments/assets/cdaab41a-a4c7-496a-a57e-c0ee0c0d6a65)
+
+
+
+
 ![Image 30-10-2025 à 00 33 (1)](https://github.com/user-attachments/assets/ed2ab4bb-53b6-47c6-b38c-1a07ba224c7f)
 
 
 
-application avec expo:
-
-<img width="615" alt="Capture d’écran 2025-06-07 à 05 18 32" src="https://github.com/user-attachments/assets/16801c97-689b-45c0-a339-33e450e57b23" />
 
 exemple de base données:
 
