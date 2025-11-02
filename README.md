@@ -15,7 +15,7 @@ https://ecorideangular.vercel.app
 
 react:
 
-https://vite-react-sepia-six.vercel.app
+
 
 https://create-react-app-indol-ten-33.vercel.app
 
