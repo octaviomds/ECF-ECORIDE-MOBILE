@@ -4,7 +4,6 @@
 LES LIENS DE D'ECORIDE MOBILE (SITE ET APPLICATION):
 
 
-
 https://ecoride-lollias-projects.vercel.app
 
 
@@ -29,6 +28,11 @@ https://account-mu-three.vercel.app
 Application ECORIDE Docker :
 
 https://ecoride-app-mu.vercel.app
+
+LIEN DE DEMO APPLICATION:
+
+
+login24.cloudflareaccess.com
 
 
 exemmple de differentes applications:
