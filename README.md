@@ -33,7 +33,7 @@ Application ECORIDE Docker :
 
 https://ecoride-app-mu.vercel.app
 
-laravel/crud/docker/ovh:
+laravel/crud/docker/ovhcloud:
 
 https://laravel-docker-rcnijhq0.on-forge.com
 
