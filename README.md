@@ -31,7 +31,7 @@ https://account-mu-three.vercel.app
 
 Application ECORIDE Docker :
 
-https://ecoride-app-mu.vercel.app
+https://ecoride-login.vercel.app
 
 laravel/crud/docker/ovhcloud:
 
