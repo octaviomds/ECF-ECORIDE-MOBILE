@@ -8,7 +8,7 @@ https://stammendes.vercel.app
 LES LIENS DE D'ECORIDE MOBILE (SITE ET APPLICATION):
 
 
-https://ecoride-lollias-projects.vercel.app
+
 
 
 angular:
