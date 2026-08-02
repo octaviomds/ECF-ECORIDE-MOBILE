@@ -26,8 +26,7 @@ https://create-react-app-indol-ten-33.vercel.app
 DEMO APPLICATION:
 
 
-https://account-mu-three.vercel.app
-
+demo-react-app-mds
 
 DEMO APPLICATION symfony:
 
