@@ -11,12 +11,12 @@ LES LIENS DE D'ECORIDE MOBILE (SITE ET APPLICATION):
 
 
 
-angular:
+Angular:
 
 https://ecorideangular.vercel.app
  
 
-react:
+React:
 
 
 
@@ -36,7 +36,7 @@ Application ECORIDE Docker :
 
 https://ecoride-login.vercel.app
 
-laravel/crud/docker/ovhcloud:
+Laravel/crud/docker/ovhcloud:
 
 https://laravel-docker-rcnijhq0.on-forge.com
 
